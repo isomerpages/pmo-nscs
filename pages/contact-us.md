@@ -26,13 +26,13 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: feedback@nscs.gov.sg
+      - other: "Quality Service Manager: Mr Loh Kean Wah"
+    title: "Email:"
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: ""
       - other: ""
-    title: Careers
+    title: ...
 ---
