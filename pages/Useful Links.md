@@ -36,10 +36,9 @@ Visit REACH website here
 #### The Prime Minister’s Office (PMO)
 The Prime Minister's Office comprises of agencies which deal with subjects that come under the responsibility of the Prime Minister.
 
-Visit Prime Minister’s Office (PMO) website here 
+Visit Prime Minister’s Office (PMO) website [here](http://www.pmo.gov.sg/) 
 
 #### Singapore Government Online
-The gov.sg portal is the electronics communication platform of the Singapore Government. The portal serves as a convenient gateway for you to locate information about the Singapore Government, such as information resources, e-services, and contact information of public service agencies via the Singapore Government Directory Interactive (SGDI) .
+The gov.sg portal is the electronics communication platform of the Singapore Government. The portal serves as a convenient gateway for you to locate information about the Singapore Government, such as information resources, e-services, and contact information of public service agencies via the [Singapore Government Directory Interactive (SGDI)](http://www.sgdi.gov.sg/) .
 
-Visit Singapore Government Online website here 
-
+Visit Singapore Government Online website [here](http://www.gov.sg/)
