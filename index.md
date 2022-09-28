@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/hero.jpg
-  - infobar:
-      title: About NSCS
-      description: The National Security Coordination Secretariat (NSCS) is a unit
-        under the Prime Minister's Office responsible for national security
-        planning and coordination.
+  - infopic:
+      title: Vision
+      description: "A secure & resilient nation: A networked government, a cohesive
+        society, an engaged people."
+      alt: Image alt text
 ---
