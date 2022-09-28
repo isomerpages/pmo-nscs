@@ -12,15 +12,15 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-    maps_link: https://tools.onemap.sg/minimap/minimap.html?mWidth=450&mHeight=450&latLng=1.28011512900538,103.845666409192&zoomLevl=17
+    maps_link: ""
     title: Address
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
+      - ""
+      - ""
       - ""
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    maps_link: ""
+    title: " "
 contacts:
   - content:
       - phone: ""
