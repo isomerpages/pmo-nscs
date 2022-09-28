@@ -1,8 +1,9 @@
 logo: /images/logo.jpg
 links:
-  - title: About NSCS
-    collection: about-us
   - title: Newsroom
     collection: newsroom
   - title: Useful Links
     url: /useful-links/
+  - title: About NSCS
+    url: /aboutnscs/
+    sublinks: []
