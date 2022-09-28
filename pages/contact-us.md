@@ -25,11 +25,11 @@ contacts:
   - content:
       - phone: ""
       - email: feedback@nscs.gov.sg
-      - other: "Quality Service Manager: Mr Loh Kean Wah"
-    title: "Email:"
+      - other: ""
+    title: Email
   - content:
       - phone: ""
       - email: ""
-      - other: ""
-    title: ...
+      - other: Mr Loh Kean Wah
+    title: Quality Service Manager
 ---
