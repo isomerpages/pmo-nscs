@@ -2,10 +2,3 @@ logo: /images/logo.jpg
 links:
   - title: About NSCS
     collection: about-us
-  - title: Newsroom
-    url: "#"
-    sublinks:
-      - title: Events
-        url: /newsroom/events/
-      - title: News Releases
-        url: /newsroom/news-releases/
