@@ -6,7 +6,7 @@ description: ""
 #### Centre of Excellence for National Security (CENS)
 The Centre of Excellence for National Security is a research unit of the S. Rajaratnam School of International Studies (RSIS) at Nanyang Technological University (Singapore) which is devoted to rigorous policy-relevant analysis of a range of national security issues.
 
-Visit Centre of Excellence for National Security (CENS) website here 
+Visit Centre of Excellence for National Security (CENS) website [here](http://www.rsis.edu.sg/research/cens/) 
 
 #### Let's Stand Together
 The “Let’s Stand Together” campaign explores what security really means to us. In this day and age, threats can come from anywhere. We cannot protect ourselves alone. Collectively, we can be stronger.
