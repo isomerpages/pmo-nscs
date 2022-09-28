@@ -3,7 +3,7 @@ links:
   - title: About NSCS
     url: /aboutnscs/
   - title: Newsroom
-    url: /newsroom
+    url: "#"
     sublinks:
       - title: Events
         url: /events
