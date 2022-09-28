@@ -2,3 +2,5 @@ logo: /images/logo.jpg
 links:
   - title: About NSCS
     collection: about-us
+  - title: Newsroom
+    collection: newsroom
