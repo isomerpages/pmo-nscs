@@ -29,4 +29,17 @@ This includes clearing your Internet browser cookies and cache before and after 
 You should keep your passwords confidential. Please note that we will never ask you for your SingPass or any other login password.
 
 For more details on the essential infocomm security tips,
-please visit: https://www.gosafeonline.sg/home-internet-users 
+please visit: https://www.gosafeonline.sg/home-internet-users
+
+#### **5. Hyperlinks**
+
+We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other Internet site is at your own risk. If you create a link or frame to The Website, you do so at your own risk.
+
+We reserve the right to object or disable any link or frame to or from The Website.
+
+#### **6. Intellectual Property**
+
+Materials, including source code, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials is owned by or licensed to us. All rights reserved. (National Security Coordination Secretariat © 2010).
+
+Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.
+
