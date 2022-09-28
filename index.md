@@ -18,5 +18,5 @@ sections:
         planning and coordination.
       alt: Image alt text
       button: Find Out More
-      url: /about-us/
+      url: /aboutnscs/
 ---
