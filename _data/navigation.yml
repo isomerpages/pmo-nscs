@@ -6,8 +6,8 @@ links:
     url: "#"
     sublinks:
       - title: Events
-        url: /events
+        url: /newsroom/events/
       - title: News Releases
-        url: /news-releases
+        url: /newsroom/news-releases/
       - title: Speeches
-        url: /speeches
+        url: /newsroom/speeches/
