@@ -3,7 +3,7 @@ title: Events
 permalink: /newsroom/events/
 description: ""
 ---
-# About IRAHSS 2019
+### About IRAHSS 2019
 
 The National Security Coordination Secretariat organised the 8th International Risk Assessment and Horizon Scanning Symposium (IRAHSS 2019) on 23 and 24 July 2019 at the Raffles City Convention Centre, Singapore. IRAHSS 2019 is part of the Singapore Foresight Week, held from 23-26 July 2019.
 
