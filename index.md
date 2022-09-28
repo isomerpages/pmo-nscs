@@ -17,5 +17,6 @@ sections:
         under the Prime Minister's Office responsible for national security
         planning and coordination.
       alt: Image alt text
+      button: Find Out More
+      url: /about-us/
 ---
-
