@@ -3,10 +3,9 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-
 #### **1. Agreement - Terms**
 
-All access of any area of www.nscs.gov.sg ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
+All access of any area of [www.nscs.gov.sg](https://www.nscs.gov.sg) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
 
 In these Terms, the words "we", "our" and "us" refers to the National Security Coordination Secretariat.
 
@@ -31,7 +30,7 @@ This includes clearing your Internet browser cookies and cache before and after 
 You should keep your passwords confidential. Please note that we will never ask you for your SingPass or any other login password.
 
 For more details on the essential infocomm security tips,
-please visit: https://www.gosafeonline.sg/home-internet-users
+please visit: [https://www.gosafeonline.sg/home-internet-users](https://www.gosafeonline.sg/home-internet-users)
 
 #### **5. Hyperlinks**
 
