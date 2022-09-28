@@ -19,7 +19,7 @@ locations:
       - ""
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: " "
     title: " "
 contacts:
   - content:
