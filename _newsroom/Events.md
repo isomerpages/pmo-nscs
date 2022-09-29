@@ -9,4 +9,4 @@ The National Security Coordination Secretariat organised the 8th International R
 
 The theme of "The Future Reimagined” was chosen to get speakers and participants to envision the future together from three perspectives: geopolitics, security and society. Bringing together 22 thought leaders from various backgrounds, featuring 18 talks and four panel discussions, the symposium aims to distil key scenario vignettes so that we can be better prepared for the future.
 
-Please click here for the programme, synopses and information about the speakers and moderators.
+Please click [here](https://go.gov.sg/ebooklet) for the programme, synopses and information about the speakers and moderators.
