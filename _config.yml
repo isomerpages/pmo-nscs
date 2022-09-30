@@ -3,7 +3,7 @@ url: https://www.nscs.gov.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#025682"
-  secondary-color: "#484848"
+  secondary-color: "#025682"
   media-colors:
     - title: media-color-one
       color: "#484848"
