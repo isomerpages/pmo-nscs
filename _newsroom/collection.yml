@@ -1,5 +1,4 @@
 collections:
   newsroom:
     output: true
-    order:
-      - Speeches.md
+    order: []
