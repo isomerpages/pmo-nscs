@@ -17,5 +17,5 @@ sections:
         under the Prime Minister's Office responsible for national security
         planning and coordination.
       button: Find Out More
-      url: /aboutnscs/
+      url: https://go.gov.sg/ebooklet
 ---
