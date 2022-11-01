@@ -16,6 +16,4 @@ sections:
       description: The National Security Coordination Secretariat (NSCS) is a unit
         under the Prime Minister's Office responsible for national security
         planning and coordination.
-      button: Find Out More
-      url: https://go.gov.sg/ebooklet
 ---
