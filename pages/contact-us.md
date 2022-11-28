@@ -2,31 +2,19 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: National Security Coordination Secretariat
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "45 Maxwell Road, #05-11"
+      - The URA Centre (East Wing)
+      - Singapore 069118
+    operating_hours: []
+    maps_link: https://tools.onemap.sg/minimap/minimap.html?mWidth=450&mHeight=450&latLng=1.28011512900538,103.845666409192&zoomLevl=17
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: feedback@nscs.gov.sg
+      - other: ""
+    title: Email
 ---

@@ -1,13 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About NSCS
+    url: /aboutnscs/
+  - title: Newsroom
+    url: /newsroom/
+  - title: Careers
+    url: /career/
+  - title: Useful Links
+    url: /useful-links/
