@@ -16,9 +16,4 @@ sections:
       description: The National Security Coordination Secretariat (NSCS) is a unit
         under the Prime Minister's Office responsible for national security
         planning and coordination.
-  - infopic:
-      title: Digital Services Awards 2022
-      subtitle: Best Accessibility
-      image: /images/Best Accessibility RGB_2022.png
-      alt: Image alt text
 ---
