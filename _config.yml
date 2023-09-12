@@ -52,8 +52,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pmo-nscs-staging.netlify.app
-prod: https://pmo-nscs-prod.netlify.app
+staging: https://staging.d21k2rkulxei08.amplifyapp.com/
+prod: https://master.d21k2rkulxei08.amplifyapp.com/
 shareicon: /images/logo.jpg
 is_government: true
 facebook-pixel: ""
