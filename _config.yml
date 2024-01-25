@@ -1,0 +1,61 @@
+title: The National Security Coordination Secretariat (NSCS)
+url: https://www.nscs.gov.sg
+favicon: /images/favicon.ico
+colors:
+  primary-color: "#025682"
+  secondary-color: "#025682"
+  media-colors:
+    - title: media-color-one
+      color: "#484848"
+    - title: media-color-two
+      color: "#484848"
+    - title: media-color-three
+      color: "#484848"
+    - title: media-color-four
+      color: "#484848"
+    - title: media-color-five
+      color: "#484848"
+description: The National Security Coordination Secretariat (NSCS) in Singapore
+  was formed under the Prime Minister’s Office to handle national security
+  planning and the coordination of policy and intelligence issues at a
+  whole-of-government level.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d21k2rkulxei08.amplifyapp.com/
+prod: https://master.d21k2rkulxei08.amplifyapp.com/
+shareicon: /images/logo.jpg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
