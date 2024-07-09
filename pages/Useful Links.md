@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
+variant: markdown
 ---
 #### Centre of Excellence for National Security (CENS)
 The Centre of Excellence for National Security is a research unit of the S. Rajaratnam School of International Studies (RSIS) at Nanyang Technological University (Singapore) which is devoted to rigorous policy-relevant analysis of a range of national security issues.
@@ -21,7 +22,7 @@ Visit Ministry of Defence website [here](http://www.mindef.gov.sg/)
 #### NEXUS
 NEXUS plays a leading role in developing a shared sense of nationhood among Singaporeans. They do so by driving a comprehensive and coordinated nation-wide National Education effort, in partnership with relevant organisations.
 
-Visit NEXUS website [here](http://www.nexus.gov.sg/) 
+Visit NEXUS website [here](https://www.mindef.gov.sg/staticfile/nexus/index.html) 
 
 #### REACH
 REACH was set up in October 2006 as part of the restructuring plans for the Feedback Unit to move beyond gathering public feedback, and to become the lead agency for engaging and connecting with citizens.
