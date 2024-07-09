@@ -22,7 +22,7 @@ Visit Ministry of Defence website [here](http://www.mindef.gov.sg/)
 #### NEXUS
 NEXUS plays a leading role in developing a shared sense of nationhood among Singaporeans. They do so by driving a comprehensive and coordinated nation-wide National Education effort, in partnership with relevant organisations.
 
-Visit NEXUS website [here](https://www.mindef.gov.sg/staticfile/nexus/index.html/) 
+Visit NEXUS website [here](https://www.mindef.gov.sg/staticfile/nexus/index.html) 
 
 #### REACH
 REACH was set up in October 2006 as part of the restructuring plans for the Feedback Unit to move beyond gathering public feedback, and to become the lead agency for engaging and connecting with citizens.
