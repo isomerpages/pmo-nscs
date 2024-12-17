@@ -9,7 +9,7 @@ locations:
       - The URA Centre (East Wing)
       - Singapore 069118
     operating_hours: []
-    maps_link: https://tools.onemap.sg/minimap/minimap.html?mWidth=450&mHeight=450&latLng=1.28011512900538,103.845666409192&zoomLevl=17
+    maps_link: https://www.onemap.gov.sg/?lat=1.2801151&lng=103.8456665
     title: Address
 contacts:
   - content:
@@ -17,4 +17,5 @@ contacts:
       - email: feedback@nscs.gov.sg
       - other: ""
     title: Email
+feedback: https://go.gov.sg/nscsfeedback
 ---
