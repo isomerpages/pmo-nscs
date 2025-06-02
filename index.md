@@ -7,7 +7,11 @@ description: The National Security Coordination Secretariat (NSCS) in Singapore
   whole-of-government level.
 image: /images/logo.jpg
 permalink: /
-notification: ""
+notification: Government officials will **NEVER** ask you to transfer money or
+  disclose bank log-in details over a phone call.  If you're unsure whether
+  something is a scam, call the 24/7 ScamShield Helpline at 1799 or visit the
+  official ScamShield website at <a rel="noopener noreferrer" target="_blank"
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.
 sections:
   - hero:
       background: /images/hero.jpg
